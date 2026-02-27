@@ -24,11 +24,11 @@ git clone https://github.com/aryan25s/Password-Generator.git
 
 Install dependencies:
 
---npm install
+   npm install
 
 Run the project:
 
---npm start
+   npm start
 
 ## 👨‍💻 Author
 Aryan Pradhan
