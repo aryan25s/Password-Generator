@@ -1,0 +1,28 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#root{
+    width: 500px;
+    padding: 20px 30px;
+    background-color: rgba(157, 142, 123, 0.622);
+    text-align: center;
+}
+
+.second{
+    font-size: 20px;
+}
+
+button{
+    cursor: pointer;
+    position: relative;
+    bottom: 10px;
+    background-color: rgba(143, 58, 58, 0.588);
+    font-weight: bold;
+}
